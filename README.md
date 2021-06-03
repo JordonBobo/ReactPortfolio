@@ -4,7 +4,7 @@
   ## Description
    Personal Portfolio Webpage for LX "Jordon" Bobo. Contact info, about me, and projects pages.
 
-  Deployed at [GitHub Pages](https://jordonbobo.github.io/).
+  Deployed at [GitHub Pages](https://jordonbobo.github.io/ReactPortfolio/).
 
   See the repo at [GitHub](https://github.com/JordonBobo/ReactPortfolio).
 
