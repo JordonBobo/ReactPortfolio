@@ -4,7 +4,7 @@
   ## Description
    Personal Portfolio Webpage for LX "Jordon" Bobo. Contact info, about me, and projects pages.
 
-  Deployed at [GitHub Pages](hhttps://jordonbobo.github.io/).
+  Deployed at [GitHub Pages](https://jordonbobo.github.io/).
 
   See the repo at [GitHub](https://github.com/JordonBobo/ReactPortfolio).
 
@@ -29,7 +29,7 @@
   The following resources were used in this project:
 
   - [Node.js](https://nodejs.org/en/)
-  - [google Fonts](https://fonts.google.com/)
+  - [Google Fonts](https://fonts.google.com/)
   - [Express](https://expressjs.com/)
   - [Axios](https://www.npmjs.com/package/axios)
   - [React](https://reactjs.org/)
