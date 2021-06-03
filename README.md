@@ -29,8 +29,9 @@
   The following resources were used in this project:
 
   - [Node.js](https://nodejs.org/en/)
-  - ['google Fonts'](https://fonts.google.com/)
+  - [google Fonts](https://fonts.google.com/)
   - [Express](https://expressjs.com/)
+  - [Axios](https://www.npmjs.com/package/axios)
   - [React](https://reactjs.org/)
   - [Bootstrap](https://getbootstrap.com/)
 
